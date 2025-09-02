@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+*.env
+*.venv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python virtual environment
+venv/
+ENV/
+
+# Data files (if large, you can customize)
+*.csv
+*.h5
+*.npz
+*.pickle
+*.pkl
+*.json
+
+# Temporary files
+*.tmp
+*.swp
